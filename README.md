@@ -8,40 +8,17 @@ Minha trajetória também inclui uma base sólida em infraestrutura de TI e supo
 
 Em termos acadêmicos, sou pós-graduando em Desenvolvimento Full Stack pela PUCRS, com formação técnica em Informática e graduação em Análise e Desenvolvimento de Sistemas pela Universidade La Salle.
 
-<p align="left" style="display: flex; gap: 10px;">
-  <!-- LinkedIn com SVG como botão -->
-  <a href="https://www.linkedin.com/in/gustavo-wawrick/" target="_blank" 
-    style="
-      display: inline-flex;
-      align-items: center;
-      background-color: #0f427c;
-      color: white;
-      padding: 8px 12px;
-      border-radius: 6px;
-      font-weight: bold;
-      font-family: sans-serif;
-      text-decoration: none;
-    ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"
-      title="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;" />
-    LinkedIn
-  </a>
-
-  <a href="https://www.instagram.com/_gustavonw/" target="_blank" 
-    style="
-      display: inline-flex;
-      align-items: center;
-      background-color: #d14d95;
-      color: white;
-      padding: 8px 12px;
-      border-radius: 6px;
-      font-weight: bold;
-      font-family: sans-serif;
-      text-decoration: none;
-    ">
-    <i class="fab fa-instagram" style="font-size: 20px; margin-right: 8px;"></i>
-    Instagram
-  </a>
+<p align="left">
+    <a href="https://www.linkedin.com/in/gustavo-wawrick/" target="_blank">
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    </a>
+    <a href="https://www.instagram.com/_gustavonw/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" 
+        />
+    </a>
 </p>
 
 ---
@@ -134,5 +111,3 @@ Em termos acadêmicos, sou pós-graduando em Desenvolvimento Full Stack pela PUC
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavowawrick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
