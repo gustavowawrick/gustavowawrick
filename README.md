@@ -1,16 +1,138 @@
-## Hi there 👋
+# 👨🏻‍💻 Gustavo Nunes Wawrick
 
-<!--
-**gustavowawrick/gustavowawrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Me chamo Gustavo Nunes Wawrick, sou desenvolvedor front-end com mais de 2 anos de experiência profissional, atuando atualmente na ITS Group, onde contribuo no desenvolvimento e aprimoramento do sistema interno GIITS. Minha atuação é focada na criação de interfaces funcionais, acessíveis e com boa usabilidade, utilizando tecnologias como HTML, CSS, JavaScript, Bootstrap e jQuery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha trajetória também inclui uma base sólida em infraestrutura de TI e suporte técnico, o que me proporciona uma visão abrangente da tecnologia — desde a camada mais técnica até a experiência do usuário.
+
+Em termos acadêmicos, sou pós-graduando em Desenvolvimento Full Stack pela PUCRS, com formação técnica em Informática e graduação em Análise e Desenvolvimento de Sistemas pela Universidade La Salle.
+
+<p align="left" style="display: flex; gap: 10px;">
+  <!-- LinkedIn com SVG como botão -->
+  <a href="https://www.linkedin.com/in/gustavo-wawrick/" target="_blank" 
+    style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #0f427c;
+      color: white;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-weight: bold;
+      font-family: sans-serif;
+      text-decoration: none;
+    ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"
+      title="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;" />
+    LinkedIn
+  </a>
+
+  <a href="https://www.instagram.com/_gustavonw/" target="_blank" 
+    style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #d14d95;
+      color: white;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-weight: bold;
+      font-family: sans-serif;
+      text-decoration: none;
+    ">
+    <i class="fab fa-instagram" style="font-size: 20px; margin-right: 8px;"></i>
+    Instagram
+  </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<br/>
+<br/>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+### 📊 Estatísticas
+
+<p>
+<img align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavowawrick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
