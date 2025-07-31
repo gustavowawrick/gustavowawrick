@@ -101,13 +101,3 @@ Em termos acadêmicos, sou pós-graduando em Desenvolvimento Full Stack pela PUC
 <br/>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
-
-### 📊 Estatísticas
-
-<p>
-<img align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavowawrick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
