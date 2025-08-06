@@ -6,7 +6,7 @@ Me chamo Gustavo Nunes Wawrick, sou desenvolvedor front-end com mais de 2 anos d
 
 Minha trajetória também inclui uma base sólida em infraestrutura de TI e suporte técnico, o que me proporciona uma visão abrangente da tecnologia — desde a camada mais técnica até a experiência do usuário.
 
-Em termos acadêmicos, sou pós-graduando em Desenvolvimento Full Stack pela PUCRS, com formação técnica em Informática e graduação em Análise e Desenvolvimento de Sistemas pela Universidade La Salle.
+Em termos acadêmicos, sou pós-graduado em Desenvolvimento Full Stack pela PUCRS, com formação técnica em Informática e graduação em Análise e Desenvolvimento de Sistemas pela Universidade La Salle.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gustavo-wawrick/" target="_blank">
